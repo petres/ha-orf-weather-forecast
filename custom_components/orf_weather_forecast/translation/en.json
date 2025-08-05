@@ -1,0 +1,10 @@
+{
+  "title": "Orf Weather Forecast",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Configure Orf Weather Forecast"
+      }
+    }
+  }
+}
