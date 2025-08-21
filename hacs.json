@@ -1,6 +1,6 @@
 {
-  "name": "ORF Weather Forecast",
   "country": "AT",
+  "hacs": "2.0.0",
   "homeassistant": "2025.1.1",
-  "hacs": "2.0.0"
+  "name": "ORF Weather Forecast"
 }
