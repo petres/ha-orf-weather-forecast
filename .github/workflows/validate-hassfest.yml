@@ -9,5 +9,5 @@ jobs:
   validate-hassfest:
     runs-on: "ubuntu-latest"
     steps:
-      - name: hassfest validation
-        uses: "home-assistant/actions/hassfest@master"
+      - uses: "actions/checkout@v4"
+      - uses: "home-assistant/actions/hassfest@master"
